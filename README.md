@@ -1,5 +1,4 @@
 # Tableau-Dashboards
-# Tableau Dashboards
 
 ## Overview
 This repository contains interactive Tableau dashboards designed for **data visualization and analysis**. These dashboards help in **identifying key insights, tracking KPIs, and making data-driven decisions** across various domains.
